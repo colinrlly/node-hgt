@@ -5,7 +5,7 @@ node-hgt
 
 [![npm version](https://img.shields.io/npm/v/node-hgt.svg)](https://www.npmjs.com/package/node-hgt) [![Build status](https://travis-ci.org/perliedman/node-hgt.png)](https://travis-ci.org/perliedman/node-hgt)
 
-(colinrlly fork) - the original version did not work on windows due to a native unix library being used. This version now does not use that library, and works on Windows OS.
+(colinrlly fork) - the original version did not work on Windows due to a native unix library being used. This version now does not use that library, and works on Windows.
 
 Read and query HGT files, for example from SRTM, for elevation data with high performance.
 Optionally, this module can also use cached and automatically download HGT files as required.
